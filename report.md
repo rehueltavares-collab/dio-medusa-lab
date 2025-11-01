@@ -31,3 +31,6 @@ Autenticação bem-sucedida para 'ftp' em vsftpd (192.168.56.102). Diretório ra
 
 ## Observação (SMB)
 Enumeração SMB executada; password-spray com wordlists reduzidas não retornou credenciais. Evidência sanitizada: outputs/smb_evidence_sanitized.txt
+
+## Observação (MySQL)
+Tentativas de autenticação MySQL executadas; sem credenciais válidas encontradas com wordlists utilizadas. Evidência sanitizada: outputs/mysql_evidence_sanitized.txt
