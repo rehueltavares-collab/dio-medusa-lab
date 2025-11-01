@@ -1,0 +1,8 @@
+# outputs possivelmente sensíveis
+/outputs/*
+# por padrão não ignorar imagens (quando quiser enviar imagens, remova a linha abaixo)
+# /images/*
+# ignore system files
+*.pem
+*.key
+.env
