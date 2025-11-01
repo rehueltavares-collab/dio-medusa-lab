@@ -37,3 +37,6 @@ Tentativas de autenticação MySQL executadas; sem credenciais válidas encontra
 
 ## Resumo final
 Relatório sanitizado gerado: outputs/final_evidence_sanitized.txt
+
+## Resumo final
+Relatório sanitizado gerado: outputs/final_evidence_sanitized.txt
