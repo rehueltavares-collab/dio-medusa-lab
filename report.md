@@ -28,3 +28,6 @@ Demonstrar técnicas de força-bruta (FTP, Web, SMB) usando Medusa em ambiente c
 
 ## Observação (FTP)
 Autenticação bem-sucedida para 'ftp' em vsftpd (192.168.56.102). Diretório raiz vazio. Evidência sanitizada: outputs/ftp_evidence_sanitized.txt. Outputs completos mantidos localmente.
+
+## Observação (SMB)
+Enumeração SMB executada; password-spray com wordlists reduzidas não retornou credenciais. Evidência sanitizada: outputs/smb_evidence_sanitized.txt
