@@ -34,3 +34,6 @@ Enumeração SMB executada; password-spray com wordlists reduzidas não retornou
 
 ## Observação (MySQL)
 Tentativas de autenticação MySQL executadas; sem credenciais válidas encontradas com wordlists utilizadas. Evidência sanitizada: outputs/mysql_evidence_sanitized.txt
+
+## Resumo final
+Relatório sanitizado gerado: outputs/final_evidence_sanitized.txt
