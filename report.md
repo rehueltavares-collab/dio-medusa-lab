@@ -25,3 +25,6 @@ Demonstrar técnicas de força-bruta (FTP, Web, SMB) usando Medusa em ambiente c
 ## Recomendações
 - Rate-limiting, MFA, políticas de senha, desabilitar serviços inseguros.
 
+
+## Observação (FTP)
+Autenticação bem-sucedida para 'ftp' em vsftpd (192.168.56.102). Diretório raiz vazio. Evidência sanitizada: outputs/ftp_evidence_sanitized.txt. Outputs completos mantidos localmente.
